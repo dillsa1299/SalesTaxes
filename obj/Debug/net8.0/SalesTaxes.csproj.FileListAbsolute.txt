@@ -1,0 +1,15 @@
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\bin\Debug\net8.0\SalesTaxes.exe
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\bin\Debug\net8.0\SalesTaxes.deps.json
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\bin\Debug\net8.0\SalesTaxes.runtimeconfig.json
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\bin\Debug\net8.0\SalesTaxes.dll
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\bin\Debug\net8.0\SalesTaxes.pdb
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.AssemblyInfoInputs.cache
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.AssemblyInfo.cs
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.csproj.CoreCompileInputs.cache
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.sourcelink.json
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.dll
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\refint\SalesTaxes.dll
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.pdb
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\SalesTaxes.genruntimeconfig.cache
+C:\Users\irwind\OneDrive - KerridgeCS\Documents\Udemy\Assessment\SalesTaxes\obj\Debug\net8.0\ref\SalesTaxes.dll
